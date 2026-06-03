@@ -41,65 +41,53 @@
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 <table>
 <tr>
-<td valign="top"><b>Cloud&nbsp;&amp;&nbsp;IaC</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" height="38" alt="aws terraform ansible" />
-&nbsp;<img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraformer-7B42BC?style=flat&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Infracost-EC5C2B?style=flat" />
+<td align="center" width="200">
+<kbd>&nbsp;☁️&nbsp; Cloud &amp; IaC &nbsp;</kbd><br><br>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible&perline=3" height="42" alt="aws terraform ansible" />
+</td>
+<td align="center" width="200">
+<kbd>&nbsp;📦&nbsp; Containers &nbsp;</kbd><br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=3" height="42" alt="docker kubernetes" />
+</td>
+<td align="center" width="200">
+<kbd>&nbsp;🔁&nbsp; CI/CD &nbsp;</kbd><br><br>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git&perline=3" height="42" alt="jenkins github actions git" />
 </td>
 </tr>
 <tr>
-<td valign="top"><b>Containers</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="38" alt="docker kubernetes" />
-&nbsp;<img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazoneks&logoColor=white" />
+<td align="center" width="200">
+<kbd>&nbsp;📈&nbsp; Monitoring &nbsp;</kbd><br><br>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=3" height="42" alt="grafana prometheus" />
 </td>
-</tr>
-<tr>
-<td valign="top"><b>CI/CD</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github" height="38" alt="jenkins github actions git" />
+<td align="center" width="200">
+<kbd>&nbsp;⌨️&nbsp; Languages &nbsp;</kbd><br><br>
+<img src="https://skillicons.dev/icons?i=python,bash&perline=3" height="42" alt="python bash" />
 </td>
-</tr>
-<tr>
-<td valign="top"><b>Monitoring</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" height="38" alt="grafana prometheus" />
-&nbsp;<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,bash" height="38" alt="python bash" />
-&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" height="38" alt="mysql postgres redis" />
-&nbsp;<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td valign="top"><b>OS&nbsp;&amp;&nbsp;Servers</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=linux,redhat,nginx" height="38" alt="linux redhat nginx" />
-&nbsp;<img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Stakpak-111111?style=flat" />
+<td align="center" width="200">
+<kbd>&nbsp;🗄️&nbsp; Data &amp; OS &nbsp;</kbd><br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,linux,redhat,nginx&perline=3" height="42" alt="mysql postgres redis linux redhat nginx" />
 </td>
 </tr>
 </table>
+
+<sub><b>Also working with:</b></sub><br>
+<img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=flat&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat&logo=amazoneks&logoColor=white" />
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/New%20Relic-1CE783?style=flat&logo=newrelic&logoColor=black" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" />
+<img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat&logo=amazonredshift&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraformer-7B42BC?style=flat&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Infracost-EC5C2B?style=flat" />
+<img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Stakpak-111111?style=flat" />
+
+</div>
 
 <!-- ====================== PROJECTS ====================== -->
 ## 🚀 Featured Projects
